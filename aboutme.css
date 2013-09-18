@@ -1,0 +1,61 @@
+h1, h2{color: #FF6600;
+text-align: center;
+}
+h3{
+color: green;
+}
+
+h4{
+padding:0%; 
+margin-bottom:0%;
+color:green;
+font-size: 1.1em;
+font-weight: normal;
+width:15em;
+}
+
+#heading{
+font-family:  trebuchet, sans-serif;
+}
+
+
+
+legend{ 
+font-size: 1.2em;
+color: #FF6600;
+}
+
+body{
+margin-top: 4%;
+margin-bottom: 4%;
+}
+
+form{
+border-color: green;
+border-style: solid;
+border-width: thin;
+background-color:#F0F0D0;
+
+margin: auto;
+width: 80%;
+}
+
+fieldset{
+padding: 1em 3em 2em 3em;
+text-align:left;
+border-color:green;
+border-width:thin;
+border-radius: 1em;
+border-style: solid;
+margin:auto;
+margin-top: 3em;
+width: 65%;
+
+}
+
+
+
+fieldset p {padding:0;
+margin-top: 0;
+}
+
