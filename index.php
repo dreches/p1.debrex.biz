@@ -17,10 +17,10 @@
 <fieldset>
 <legend>Background</legend>
 <p>
-Over the course of over a decade, I have taken several courses at Harvard Extension school, including CSCIE12 last semester. Over the summer
+Over the course of a decade plus, I have taken many courses at Harvard Extension school, including CSCIE12 last semester. Over the summer
 my CSS/Javascript skills have managed to get rusty, and I hope to refresh them in this class. 
-I had already taken a few courses on XML, including Web Development using XML and Developing e-Business applications using XML and Java.
-I was a TA for the latter class as well, (in 2002), along with then graduate student David Malan, who now teaches at Harvard. 
+I have taken a few courses on XML, including Web Development using XML and Developing e-Business applications using XML and Java.
+I was a TA for the latter class (in 2002), along with then graduate student David Malan, who now teaches at Harvard. 
 </p>
 <p>
 I worked till recently at MEDITECH, for 13 years, in their interface/integration group. There is definitely a lot of room for improvement
