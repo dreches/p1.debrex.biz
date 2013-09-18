@@ -18,7 +18,8 @@ Over the course of over a decade, I have taken several courses at Harvard Extens
 my CSS/Javascript skills have managed to get rusty, and I hope to refresh them in this class. 
 I had already taken a few courses on XML, including Web Development using XML and Developing e-Business applications using XML and Java.
 I was a TA for the latter class as well, (in 2002), along with then graduate student David Malan, who now teaches at Harvard. 
-
+</p>
+<p>
 I worked till recently at MEDITECH, for 13 years, in their interface/integration group. There is definitely a lot of room for improvement
 when it comes to Hospital Information Systems. Our fragmented healthcare system, and fundamental distrust of consolidating patient data by any
 one group, and recently passed heavy handed patient privacy regulations have definitely slowed down the delivery of modern and effective software
